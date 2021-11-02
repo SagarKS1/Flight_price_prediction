@@ -1,6 +1,8 @@
 Project Title: Flight_price_prediction
 
 This is a Flask web app which predicts fare of Flight ticket.
+![FPP](https://user-images.githubusercontent.com/81403919/139921546-5a937d4d-e40c-4cfe-882b-d7a9dc20476a.png)
+
 
 
 
