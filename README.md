@@ -23,14 +23,27 @@ you will be provided with prices of flight tickets for various airlines between 
 2019 and between various cities. Size of training set: 10683 records
 
 Size of test set: 2671 records
-1.FEATURES: Airline: The name of the airline.
+
+FEATURES:
+
+1.Airline: The name of the airline.
+
 2.Date_of_Journey: The date of the journey
+
 3.Source: The source from which the service begins.
+
 4.Destination: The destination where the service ends.
+
 5.Route: The route taken by the flight to reach the destination.
+
 6.Dep_Time: The time when the journey starts from the source.
+
 7.Arrival_Time: Time of arrival at the destination.
+
 8.Duration: Total duration of the flight.
+
 9.Total_Stops: Total stops between the source and destination.
+
 10.Additional_Info: Additional information about the flight
+
 11.Price: The price of the ticket
